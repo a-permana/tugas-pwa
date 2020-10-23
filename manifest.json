@@ -1,5 +1,6 @@
 {
     "name" : "Football Information",
+    "gcm_sender_id": "184073159235",
     "short_name" : "Football Info",
     "description": "A website about football information",
     "start_url" : "/index.html",
